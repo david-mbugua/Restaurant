@@ -360,15 +360,3 @@ footer div.columns div:nth-child(3) a {
     text-align: left;
   }
 }
-
-.sign {
-  height: 80px;
-  width: 80px;
-  border-radius: 50%;
-  border: 1px solid #fff;
-  background-color: #000;
-  position: absolute;
-  bottom: -323%;
-  left: 5%;
-  transform: translate(-50%, -50%);
-}
