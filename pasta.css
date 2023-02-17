@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Lato&family=Merriweather&family=Noto+Serif&family=Open+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap");
 :root {
   --gold: #f1c55e;
 }
@@ -10,7 +10,7 @@
 body {
   background-color: black;
   color: white;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Quicksand";
 }
 img {
   max-width: 100%;
